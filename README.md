@@ -1,5 +1,13 @@
 # TagAllPeopleGroup
- tag-all-people-in-group
+
+ 
+
+ * tag-all-people-in-group
+ * <p> Tên: Nguyễn Đức Huy
+ * <p> MSV: 19000350
+ * @author Nguyen Duc Huy
+ * @since 2020-05-15
+
 Đây là hướng dẫn cho những người chưa biết thôi chứ t thì t biết rồi. <p>
 Bước 1: Đổi thành m.facebook.com/ rồi mở danh sách tất cả thành viên group <p>
 Bước 2: Dán 9 dòng đầu của file .js trong thư mục vào tab Console ở Dev tool, xong nhấn Enter <p>
